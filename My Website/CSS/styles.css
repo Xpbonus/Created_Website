@@ -1,0 +1,74 @@
+*{
+    /* outline:1px solid red;  */
+    padding: 0%;
+    margin: 0%;
+    
+ }
+
+header{color: white;}
+body{background-image:url(https://1-background.com/images/stars-1/stars-background-purple.jpg);}
+
+    header
+        {
+            text-align: center;
+            padding: 1%;
+            font-size: 150%;
+        }
+    nav
+        {
+            background-color: hsla(341, 100%, 70%, 0.7);
+            margin: 1%;
+            text-align: center;
+           
+        }
+    p.nav
+        {
+            background-color: rgb(226, 199, 235);
+            
+        }
+        .navlink
+        {
+          color: black;  
+        }
+    main 
+        {
+            margin: 0.5%;
+            background-color: hsla(280, 57%, 19%, 0.4);
+            overflow: auto;
+        }
+    img 
+    {
+        max-width: 90%;
+    }
+    .div1
+        {
+            
+            background-color: hsla(279, 53%, 7%, 0.4);
+            color:white;
+            float:left;
+            width:45%;
+           margin: 2.5%;
+            text-align:center;
+        }
+    .div2
+        {
+            
+            background-color: hsla(279, 53%, 7%, 0.4);
+            color:white;
+            float:left;
+            width:45%;
+           margin: 2.5%;
+            text-align:center;
+        }
+     footer
+        {
+            
+            text-align: center;
+           margin: 0.5%;
+            color:white;
+            height: 10%;
+        }
+    .link
+        {
+            color:whitesmoke
+        }
